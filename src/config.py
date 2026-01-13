@@ -1,2 +1,0 @@
-SPREADSHEET_ID = "1-F-84fYevlEFgJ7BdhETR_CJhXQvydsn97bPZpkCgog"
-SHEET_NAME = "Sheet1"
